@@ -2,6 +2,15 @@ package com.ivanfaathirza.Kalkulator;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author User
+ * NAMA         : Ivan Faathirza
+ * KELAS        : IF1
+ * NIM          : 10119003
+ * Deskripsi Program : program kalkulator ini menghitung operasi aritmatika dengan instansiasi objek kalkulator
+ */
+
 public class IF110119003Latihan34Kalkulator {
 
 
